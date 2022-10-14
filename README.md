@@ -1,24 +1,20 @@
 
-# Hi, I'm Pratik! 👋
-<h1> Tindog</h1>
-<h2> This project is about a website made for social interaction between different dog owners and a platform for their commmunication.</h2>
+# Tindog..
+
+Tindog is a website olatform for dog owners and pet shop owners.
+where they can communicate with other owners and our service.
+they can match their dogs via our platform .
+nearby dogs are avilable for meets.
 
 
 
 ## 🔗 Links
-[![profile](https://img.shields.io/badge/my_profile-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pratikcodex/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-a4298b219//)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codepratikxo/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## 🛠 Skills
- HTML, css, bootstrap , github ...
+## Meet new and interesting dogs nearby.
 
+![App Screenshot](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220805-border-collie-play-mn-1100-82d2f1.jpg)
 
-
-
-## 🚀 About Me
-I'm a beginer in full stack developer.....
-i am currently a b.tech undergrad ....
-living in india (new delhi)...
-email : pratikrajcpr@gmail.com..
